@@ -1,4 +1,4 @@
-window.addEventListener('load', () => {
+﻿window.addEventListener('load', () => {
   let loadFlag = false
   let dataObj = []
   const $searchMask = document.getElementById('search-mask')

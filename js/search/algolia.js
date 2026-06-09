@@ -1,4 +1,4 @@
-window.addEventListener('load', () => {
+﻿window.addEventListener('load', () => {
   const openSearch = () => {
     const bodyStyle = document.body.style
     bodyStyle.width = '100%'
